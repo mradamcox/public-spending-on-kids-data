@@ -2,11 +2,13 @@
 
 Citation: Urban Institute. 2020. State-by-State Spending on Kids Dataset. Accessible from [https://datacatalog.urban.org/dataset/state-state-spending-kids-dataset](https://datacatalog.urban.org/dataset/state-state-spending-kids-dataset). Data originally collected from multiple sources, developed at the Urban Institute, and made available under the ODC-BY 1.0 Attribution License.
 
+Data covers years 1996 through 2016.
+
 This repo is just a reconfiguration of the original data to make a low-tech API.
 
 ## URL Pattern
 
-base url: `https://raw.githubusercontent.com/mradamcox/sxs_spendingonkids/master/`
+base url: `https://raw.githubusercontent.com/mradamcox/public-spending-on-kids-data/master/`
 
 to this add:
 
@@ -20,7 +22,7 @@ See the data dictionary below for variable names (note they are case-sensitive).
 
 Elementary and secondary education expenditures in Louisiana:
 
-https://raw.githubusercontent.com/mradamcox/sxs_spendingonkids/master/json/louisiana/PK12ed.json
+https://raw.githubusercontent.com/mradamcox/public-spending-on-kids-data/master/json/louisiana/PK12ed.json
 
 ## Data Dictionary (explanation of variables)
 
